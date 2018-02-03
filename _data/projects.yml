@@ -4,4 +4,4 @@
 - project:
   title: Tour of heroes
   link: "#/tour-of-heores"
-  tagline: "A spring security applicaiton to log in users with credentials obtained with the Google java script library."
+  tagline: "A spring security application to log in users with credentials obtained with the Google java script library."
