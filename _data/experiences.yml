@@ -1,28 +1,19 @@
 - experience:
   role: Lead Developer
-  time: 2015 - Present
-  company: Startup Hubs, San Francisco
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo.
-  <br> <br>
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-  laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-  architecto beatae vitae dicta sunt explicabo."
+  time: 2016 - Present
+  company: Globant, Cordoba
+  details: "I have worked dessigning solutions and working with others to implement them.
+  Also focusing on removing blockers and solving questions and issues other developers 
+  might have."
 - experience:
-  role: Senior Software Engineer
+  role: Senior Java developer
   time: 2014 - 2015
-  company: Google, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: Globant, Cordoba
+  details: "I worked developing high data volume enterprise Java applications with several
+  technologies. This applications where back-end focused."
 - experience:
-  role: UI Developer
+  role: Jr Java Developer
   time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  company: Globant, Cordoba
+  details: "I have worked with several project with defining and implementing atomated
+  testing frameworks. I worked with Groovy and Java testing web and Java swing apps."
