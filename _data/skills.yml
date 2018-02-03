@@ -8,7 +8,10 @@
   name: J2EE
   level: 98%
 - skill:
-  name: Automated testing (unit and integration)
+  name: JBehave
+  level: 80%
+- skill:
+  name: Junit
   level: 80%
 - skill:
   name: HTML5 & CSS
